@@ -1,0 +1,107 @@
+[33mcommit eacfd35aff35b81a0cb97f34f633e408dc20041c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 07033f0 37372f5
+Author: adrianedutecno <68192805+adrianedutecno@users.noreply.github.com>
+Date:   Fri Sep 4 14:46:52 2020 -0400
+
+    Merge pull request #6 from adrianedutecno/master
+    
+    Cambios simples
+
+[33mcommit 37372f5834d71109ebbf444bb8d791905ffdc662[m
+Author: Adrian Franco <adrian.franco@edutecno.com>
+Date:   Fri Sep 4 14:43:34 2020 -0400
+
+    Cambios simples
+
+[33mcommit 07033f0ba8f57672aa11b9403639794f0b24c109[m
+Merge: d686264 28dbf9e
+Author: adrianedutecno <68192805+adrianedutecno@users.noreply.github.com>
+Date:   Fri Sep 4 14:36:05 2020 -0400
+
+    Merge pull request #4 from Eligna6/master
+    
+    Segunda versión (Desafio - Fork y Pull request)
+
+[33mcommit d6862648ec73c798edb3de2077c6cb8c60d01c56[m
+Merge: b2fbe47 ad75075
+Author: adrianedutecno <68192805+adrianedutecno@users.noreply.github.com>
+Date:   Fri Sep 4 14:35:21 2020 -0400
+
+    Merge pull request #5 from cvegao/development
+    
+    Development
+
+[33mcommit ad75075a4ba4671e48eacc69b80ac28e26bbbe5b[m
+Author: Constanza <constanzab.vega@gmail.com>
+Date:   Fri Sep 4 14:30:17 2020 -0400
+
+    comentario
+
+[33mcommit e80c899a813c547099c33f37d1011af1b489db44[m
+Author: Constanza <constanzab.vega@gmail.com>
+Date:   Fri Sep 4 14:24:24 2020 -0400
+
+    Agregue Buenas tardes
+
+[33mcommit 974dc6b2460da7e35aba10af89080ab8772e8ea7[m
+Author: Constanza <constanzab.vega@gmail.com>
+Date:   Fri Sep 4 14:15:38 2020 -0400
+
+    cambio Hola a todos
+
+[33mcommit 28dbf9ed55ad0a05feb2a4c10c368e74d95ceca6[m
+Author: Eligna <sk8ymusica@gmail.com>
+Date:   Fri Sep 4 12:47:43 2020 -0400
+
+    Segunda versión
+
+[33mcommit b2fbe47b3467cc23d0c23cb4e07a1cf95151b77d[m
+Merge: 070c925 2a535a1
+Author: adrianedutecno <68192805+adrianedutecno@users.noreply.github.com>
+Date:   Fri Sep 4 10:51:27 2020 -0400
+
+    Merge pull request #1 from felipe300/master
+    
+    Added fav-icons in the footer of index.html
+
+[33mcommit 070c9259cb7c70ea1c75fd1e57087e58c04badf0[m
+Merge: 9c0b2ab 90d9e2f
+Author: adrianedutecno <68192805+adrianedutecno@users.noreply.github.com>
+Date:   Fri Sep 4 10:50:46 2020 -0400
+
+    Merge pull request #2 from wszemat/master
+    
+    pull request desafio github
+
+[33mcommit 9c0b2abb19885eefd5fa3ab695194b9e0e7312ae[m
+Merge: 291ca62 08421cd
+Author: adrianedutecno <68192805+adrianedutecno@users.noreply.github.com>
+Date:   Fri Sep 4 10:49:58 2020 -0400
+
+    Merge pull request #3 from HugoMartinThielemannMoreno/master
+    
+    Commit para el desafio
+
+[33mcommit 08421cd5eeaf2c4ab6bb6592a44b52f03076608b[m
+Author: Hugo Martín Thielemann Moreno <hugo.thielemann.moreno@gmail.com>
+Date:   Thu Sep 3 11:36:17 2020 -0400
+
+    Commit para el desafio
+
+[33mcommit 90d9e2f6d60caac7d272113f0ee9bb8eabb98864[m
+Author: github <szemat@gmail.com>
+Date:   Tue Sep 1 01:21:32 2020 -0400
+
+    commit en master para desafio github
+
+[33mcommit 2a535a1e5bc9d8f46bdef872c43cbcccd9194e56[m
+Author: Pipo <caracoloro@gmail.com>
+Date:   Wed Jul 15 17:47:11 2020 -0400
+
+    Added fav-icons in the footer of index.html
+
+[33mcommit 291ca6275070abe313b1335824f3815005c40797[m
+Author: Dirección Académica de Desafío Latam <50961944+DireccionAcademicaADL@users.noreply.github.com>
+Date:   Thu Jan 9 10:52:55 2020 -0300
+
+    primer commit
