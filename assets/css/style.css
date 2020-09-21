@@ -45,7 +45,7 @@ p {
 /* Button */
 
 .button_di-buffala {
-  background-color: #325DFF;
+  background-color: #f7de03;
   border-radius: 30px;
   padding: 2rem 6rem;
   color: #fff;
@@ -53,15 +53,17 @@ p {
   text-decoration: none;
 }
 
-.button_di-buffala:hover {
-  background-color: hsla(227, 100%, 60%, .1);
-  color: #325DFF;
+
+
+.button_di-buffala a:hover {
+  background-color: rgba(8, 8, 8, 0.1);
+  color: #f7de03;
 }
 
 /* Navbar */
 
 .navbar_di-buffala {
-  background-color: #141414;
+  background-color: #f7de03;
   color: hsla(0, 100%, 100%, 0.52);
 }
 .icon-bar {
